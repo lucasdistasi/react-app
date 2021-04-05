@@ -1,0 +1,26 @@
+[
+  {
+    "id": "96fa8212-1e23-4ac0-9de4-f3a096b29dcd",
+    "title": "task one",
+    "description": "lorem ipsum",
+    "done": false
+  },
+  {
+    "id": "96fa8212-1e23-9de4-4ac0-f3a096b29dcd",
+    "title": "task two",
+    "description": "lorem ipsum",
+    "done": false
+  },
+  {
+    "id": "96fa8212-4ac0-9de4-1e23-f3a096b29dcd",
+    "title": "task three",
+    "description": "lorem ipsum",
+    "done": true
+  },
+  {
+    "id": "96fa8212-9de4-4ac0-1e23-f3a096b29dcd",
+    "title": "task four",
+    "description": "lorem ipsum",
+    "done": false
+  }
+]

@@ -49,13 +49,13 @@ const NavbarComponent = () => {
                 }
 
                 {
-                  window.location.pathname === "/other" ?
-                    <Link to="/other"
+                  window.location.pathname === "/weather" ?
+                    <Link to="/weather"
                           className="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium"
                           aria-current="page">
                       Weather App
                     </Link> :
-                    <Link to="/other"
+                    <Link to="/weather"
                           className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
                       Weather App
                     </Link>
@@ -84,13 +84,13 @@ const NavbarComponent = () => {
           }
 
           {
-            window.location.pathname === "/other" ?
-              <Link to="/other"
+            window.location.pathname === "/weather" ?
+              <Link to="/weather"
                     className="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
                     aria-current="page">
                 Weather App
               </Link> :
-              <Link to="/other"
+              <Link to="/weather"
                     className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
                 Weather App
               </Link>
