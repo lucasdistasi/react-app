@@ -24,4 +24,4 @@
 
 ## A little video showing the app
 
-[![Alt text for your video](https://img.youtube.com/vi/uFX9hCE2_l4/0.jpg)](https://youtu.be/uFX9hCE2_l4
+[![Alt text for your video](https://img.youtube.com/vi/uFX9hCE2_l4/0.jpg)](https://youtu.be/uFX9hCE2_l4)
