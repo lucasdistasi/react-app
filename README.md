@@ -21,3 +21,7 @@
 7. If you have an error that says _This version of npm is compatible with lockfileVersion@1, but npm-shrinkwrap.json was generated for lockfileVersion@0. I'll try to do my best with it!_, delete node_modules folder and package-lock.json
 8. Run `npm i`
 9. Run `yarn start`
+
+## A little video showing the app
+
+[![Alt text for your video](https://img.youtube.com/vi/uFX9hCE2_l4/0.jpg)](https://youtu.be/uFX9hCE2_l4
